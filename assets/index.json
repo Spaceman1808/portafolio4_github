@@ -1,0 +1,62 @@
+[
+    {
+      "id": "aaa1",
+      "titulo": "Planner Enfermeria",
+      "descripcion": "Planner Enfermeria 2022-2023,especial para enfermeras que necesitan registrar sus desafos y quehaceres diarios.",
+      "imagen": "/assets/Img/Enfemera/10.png",
+      "tamaño": "21x14.5 cm",
+      "fabricante": "Canelu creations",
+      "materiales": "tapa dura laminada, anillado metalico 22 cm, 95 hojas de 105 gramos",
+      "precio": 12990
+    },
+    {
+        "id": "aaa2",
+        "titulo": "Planner Matrona",
+        "descripcion": "Planner Matrona 2022-2023,especial para especialista de la obstetricia que necesitan registrar sus desafos y quehaceres diarios.",
+        "imagen": "/assets/Img/Matrona/17.png",
+        "tamaño": "21x14.5 cm",
+        "fabricante": "Canelu creations",
+        "materiales": "tapa dura laminada, anillado metalico 22 cm, 95 hojas de 105 gramos",
+        "precio": 12990
+      },
+      {
+        "id": "aaa3",
+        "titulo": "Planner Psicologo",
+        "descripcion": "Planner Psicologo 2022-2023, diseño personalizado con espacio extra para registrar las fichas de sus pacientes y controles.",
+        "imagen": "/assets/Img/Psicologo/23.png",
+        "tamaño": "21x14,5 cm",
+        "fabricante": "Canelu creations",
+        "materiales": "tapa dura laminada, anillado metalico 22 cm, 95 hojas de 105 gramos",
+        "precio": 12990
+      },
+      {
+        "id": "aaa4",
+        "titulo": "Libreta mascota",
+        "descripcion": "Libreta personalizada con portada de mascota, 70 hojas.",
+        "imagen": "/assets/Img/Libreta mascota/22.png",
+        "tamaño": "10,5x14,8 cm",
+        "fabricante": "Canelu creations",
+        "materiales": "tapa dura laminada, anillado metalico 22 cm, 70 hojas de 105 gramos",
+        "precio": 12990
+      },
+      {
+        "id": "aaa5",
+        "titulo": "Libreta psicologia meme",
+        "descripcion": "Libreta con portada de memes de psicologia, 70 hojas.",
+        "imagen": "/assets/Img/Libreta memes psicologo/1.png",
+        "tamaño": "10,5x14,8 cm",
+        "fabricante": "Canelu creations",
+        "materiales": "tapa dura laminada, anillado metalico 22 cm, 95 hojas de 105 gramos",
+        "precio": 12990
+      },
+      {
+        "id": "aaa6",
+        "titulo": "Libreta odontologia",
+        "descripcion": "Libreta con portada ilustracion odontologa, 70 hojas.",
+        "imagen": "/assets/Img/Libreta odontologia/10.png",
+        "tamaño": "10,5x14,8 cm",
+        "fabricante": "Canelu creations",
+        "materiales": "tapa dura laminada, anillado metalico 22 cm, 95 hojas de 105 gramos",
+        "precio": 12990
+      }
+]
